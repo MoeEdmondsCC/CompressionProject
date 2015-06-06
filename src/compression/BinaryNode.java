@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
+//editd by moe, feel free to delete it
 package compression;
 import java.io.*;
 /**
